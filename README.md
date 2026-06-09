@@ -1,15 +1,17 @@
 # Identity Votes
 
-An agent skill that tracks identity votes while users talk.
+Turn ordinary self-talk into a clear read on who you are becoming.
 
-Most reflection tools wait for a clean journal entry. This skill works during ordinary conversation: the agent notices repeated behaviors, keeps a lightweight vote ledger, and returns the identity pattern at a natural endpoint.
+Most reflection tools wait for a clean journal entry. Identity Votes works while you talk: your agent notices repeated behaviors, keeps a lightweight vote ledger, and returns the strongest identity pattern when the conversation reaches a natural endpoint.
+
+Built for self-awareness without another tracker.
 
 ## What It Helps With
 
-- Spotting what identity a routine is reinforcing
-- Catching Avoider or Confronter patterns without shame
-- Turning scattered self-talk into one high-ROI next vote
-- Helping ADHD or distracted users avoid another tracking system
+- See what identity your routine is reinforcing
+- Catch Avoider or Confronter patterns without shame
+- Turn scattered self-talk into one high-ROI next vote
+- Get a pattern read without opening another tracker
 
 ## Install
 
@@ -29,4 +31,4 @@ Use $identity-votes while I talk through my day. At the end, tell me what identi
 
 Behavior disappears. Identity accumulates.
 
-The user should not need to manually track every action. The agent can listen for the votes already present in conversation and hand back a useful read.
+You should not have to manually track every action. Your agent can listen for the votes already present in conversation and hand back a useful read.

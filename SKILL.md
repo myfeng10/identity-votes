@@ -1,25 +1,25 @@
 ---
 name: identity-votes
-description: Use when a user talks about their day, habits, routines, choices, goals, procrastination, conflict, work, recovery, or repeated behavior. Track identity votes during the conversation and, at a natural endpoint, show what identity they are reinforcing and the highest-ROI next vote.
+description: "Use when you talk about your day, habits, routines, choices, goals, procrastination, conflict, work, recovery, or repeated behavior. Track identity votes during the conversation and, at a natural endpoint, show what identity you are reinforcing and the highest-ROI next vote."
 ---
 
 # Identity Votes
 
-Use this skill while the user is talking, not only after they request a formal review.
+Use this skill while the person is talking, not only after they request a formal review.
 
 Core principle: behavior disappears, identity accumulates. Every repeated action is a vote for a kind of person.
 
 ## Core Advantage
 
-The agent can notice identity votes during normal conversation, maintain a lightweight vote ledger, and present the pattern at the end. The user does not need to open a tracker, fill out a form, or remember to ask for analysis.
+The agent can notice identity votes during normal conversation, maintain a lightweight vote ledger, and present the pattern at the end. No tracker, form, or formal analysis prompt is required.
 
-High ROI: catch the pattern while the user is already explaining their life, then convert it into one next action.
+High ROI: catch the pattern while someone is already explaining their life, then convert it into one next action.
 
 ## Who This Is For
 
 Use this for people who want behavior-level self-awareness without vague personality analysis. Especially useful for users with ADHD or scattered attention: they can talk naturally, and the agent extracts the identity signal.
 
-The skill should be usable by any person. Do not assume Michelle's private ontology unless the user provides it.
+The skill should be usable by any person. Do not assume Michelle's private ontology unless someone provides it.
 
 ## Trigger Phrases
 
