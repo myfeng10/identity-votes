@@ -1,6 +1,6 @@
 ---
 name: identity-votes
-description: "Use when you talk about your day, habits, routines, choices, goals, procrastination, conflict, work, recovery, or repeated behavior. Track identity votes during the conversation and, at a natural endpoint, show what identity you are reinforcing and the highest-ROI next vote."
+description: "Use when you talk about your day, habits, routines, choices, goals, procrastination, conflict, work, recovery, or repeated behavior. Inspired by identity-based habits from Atomic Habits: track identity votes during conversation and return the strongest pattern plus one high-ROI next vote."
 ---
 
 # Identity Votes
@@ -8,6 +8,8 @@ description: "Use when you talk about your day, habits, routines, choices, goals
 Use this skill while the person is talking, not only after they request a formal review.
 
 Core principle: behavior disappears, identity accumulates. Every repeated action is a vote for a kind of person.
+
+This is inspired by James Clear's identity-based habits framework from Atomic Habits. Do not summarize the book unless asked; use the framework as practical grounding for the skill.
 
 ## Core Advantage
 

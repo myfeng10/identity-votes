@@ -6,6 +6,8 @@ Most reflection tools wait for a clean journal entry. Identity Votes works while
 
 Built for self-awareness without another tracker.
 
+Inspired by James Clear's identity-based habits framework from *Atomic Habits*: every action is a vote for who you are becoming.
+
 ## What It Helps With
 
 - See what identity your routine is reinforcing
@@ -32,3 +34,9 @@ Use $identity-votes while I talk through my day. At the end, tell me what identi
 Behavior disappears. Identity accumulates.
 
 You should not have to manually track every action. Your agent can listen for the votes already present in conversation and hand back a useful read.
+
+## Inspiration
+
+Identity Votes is based on the identity-based habits idea from James Clear's *Atomic Habits*: small repeated actions become evidence for who you believe you are.
+
+This skill turns that idea into agent behavior. While you talk about your day, routines, conflict, procrastination, or goals, the agent tracks the identity votes already present in your behavior and returns the strongest pattern plus one high-ROI next action.
